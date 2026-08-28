@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "RVFAX",
+      "hasCanvas": false,
+      "bodyTextLen": 4152,
+      "bodyTextHash": "6153c0817ab99d8f98ba1b102e14f2fda669cb2913b3ee8c0722950a74a1ebc9",
+      "bodyTextPrefix": "RVFAX KNOW BEFORE YOU BUY RVFAX RVGROK RVCAL RVTOW RVTRIPS MORE ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "RVFAX",
+      "hasCanvas": false,
+      "bodyTextLen": 4145,
+      "bodyTextHash": "9989195ca41b490b766663df6f2908e4ce80104122ca5ca2d3a4ed4e98defaa1",
+      "bodyTextPrefix": "RVFAX KNOW BEFORE YOU BUY RVFAX CATALOG Specs, ratings, and valu",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

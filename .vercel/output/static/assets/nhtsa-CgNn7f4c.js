@@ -1,0 +1,1 @@
+import{t as e}from"./createServerFn-C4akrDW5.js";import{p as t}from"./index-DNM4l0qt.js";var n=e({method:`POST`}).handler(t(`6883b9cb4bad31f0243989045daee5f6cecad4d7529f675d01ed5bf2950e0243`)),r=e({method:`POST`}).handler(t(`bebb09897503d422d8cd762dc118116bdd4d19a7f12b92ad4076451c4afe4925`));export{r as n,n as t};

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/rv/airstream--interstate",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "RVFAX",
+      "hasCanvas": false,
+      "bodyTextLen": 3303,
+      "bodyTextHash": "815f612f986fdb794cd570eb633e945d4f342d5eace7e59a25659c9bc382707b",
+      "bodyTextPrefix": "RVFAX KNOW BEFORE YOU BUY RVFAX RVGROK RVCAL RVTOW RVTRIPS MORE ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/powertrain.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "RVFAX",
+      "hasCanvas": false,
+      "bodyTextLen": 3303,
+      "bodyTextHash": "f260475836686f1ed316ba8f95036c4a19c3730c2f9211d526d17a75f3790fc1",
+      "bodyTextPrefix": "RVFAX KNOW BEFORE YOU BUY CLASS B Airstream Interstate The Airst",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/powertrain-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/powertrain.json"
+}

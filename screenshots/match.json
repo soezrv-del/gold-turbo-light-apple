@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/match",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "RVFAX",
+      "hasCanvas": false,
+      "bodyTextLen": 321,
+      "bodyTextHash": "1685351233e2b9ca10f759db9d64f538b621235b73f18da4c8b01d873f7746c4",
+      "bodyTextPrefix": "RVFAX KNOW BEFORE YOU BUY RVFAX RVGROK RVCAL RVTOW RVTRIPS MORE ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/match.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "RVFAX",
+      "hasCanvas": false,
+      "bodyTextLen": 321,
+      "bodyTextHash": "ee5e3636e6e145386cb47b7a7598715efe68992171516bc3960cee2a8b876680",
+      "bodyTextPrefix": "RVFAX KNOW BEFORE YOU BUY FIND A MATCH What should you be lookin",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/match-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/match.json"
+}
